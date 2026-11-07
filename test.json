@@ -1,6 +1,6 @@
 {
-  "version": "1.7.4",
-  "file": "fw/murmur-1.7.4.bin",
-  "size": 1388976,
-  "sha256": "1ba9039e53f8a697b051115275035740195971b8d752327b9231da7411d22371"
+  "version": "1.8.0",
+  "file": "fw/murmur-radio-1.8.0.bin",
+  "size": 2048192,
+  "sha256": "51d444ab3eecd0c4e21a335148b31d4d24d4c2a35b87acfd4e54a48153574653"
 }
