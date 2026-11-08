@@ -1,6 +1,6 @@
 {
-  "version": "1.9.8",
-  "file": "fw/murmur-1.9.8.bin",
-  "size": 2326112,
-  "sha256": "a1c7ac86c770c6c3d6fc82a706af71e3cbaaf0bf37076ce723a8cc9e548cbdc3"
+  "version": "1.9.9",
+  "file": "fw/murmur-1.9.9.bin",
+  "size": 2327136,
+  "sha256": "dd8b0fe25b95d27108fbdcbcc5e0fbb6540d47cf142b17a096ef8b1e8dc12091"
 }
