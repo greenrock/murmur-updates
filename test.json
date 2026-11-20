@@ -1,6 +1,6 @@
 {
-  "version": "1.11.0",
-  "file": "fw/murmur-1.11.0.bin",
-  "size": 2336784,
-  "sha256": "970b5254a97ee072d0d1677bba8d7c0d0547fab8a66cdf29c054f3af5c0369c0"
+  "version": "1.11.1",
+  "file": "fw/murmur-1.11.1.bin",
+  "size": 2337360,
+  "sha256": "f746d0018653aed9158e1d1663a249344e0d344f45fd58727f7c429d6a15a5fd"
 }
